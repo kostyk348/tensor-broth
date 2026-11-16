@@ -16,7 +16,7 @@
 **Computing without a program counter: a 3D spatial dataflow engine vs
 the 80-year-old fetch-decode VM.**
 
-[![CI](https://github.com/example/tensor-broth/actions/workflows/ci.yml/badge.svg)](https://github.com/example/tensor-broth/actions)
+[![CI](https://github.com/kostyk348/tensor-broth/actions/workflows/ci.yml/badge.svg)](https://github.com/kostyk348/tensor-broth/actions/workflows/ci.yml)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-green)]()
 
